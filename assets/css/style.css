@@ -1,33 +1,33 @@
-* {
-    width: 960 px;
-}
-
-
-Header {
-    padding: 20px;
-    margin-bottom: 5px;
-    background-color: whitesmoke;
-    color: grey;
-}
-
 #Name {
     float: left;
     padding: 20px;
+    width: 572px;
+    color: black;
+    background:whitesmoke;
 }
 
 #About {
     float: left;
     padding: 20px;
+    width: 76px;
+    color: black;
+    background: whitesmoke;
 }
 
 #Portfolio {
     float: left;
     padding: 20px;
+    width: 76px;
+    color: black;
+    background: whitesmoke;
 }
 
 #Contact {
     float: left;
     padding: 20px;
+    width: 76px;
+    color: black;
+    background: whitesmoke;
 }
 
 body {
