@@ -1,0 +1,45 @@
+* {
+    width: 960 px;
+}
+
+
+Header {
+    padding: 20px;
+    margin-bottom: 5px;
+    background-color: whitesmoke;
+    color: grey;
+}
+
+#Name {
+    float: left;
+    padding: 20px;
+}
+
+#About {
+    float: left;
+    padding: 20px;
+}
+
+#Portfolio {
+    float: left;
+    padding: 20px;
+}
+
+#Contact {
+    float: left;
+    padding: 20px;
+}
+
+body {
+    clear: both;
+    overflow: auto;
+    width: 960px;
+    margin:0 auto;
+    background-color: blue;
+}
+
+.Anthony_Portrait {
+    float: left;
+    margin-right: 10px;
+}
+
