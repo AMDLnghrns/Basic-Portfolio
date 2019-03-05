@@ -4,6 +4,7 @@
     width: 572px;
     color: black;
     background:whitesmoke;
+    border-bottom: solid grey 2px;
 }
 
 #About {
@@ -12,6 +13,7 @@
     width: 76px;
     color: black;
     background: whitesmoke;
+    border-bottom: solid grey 2px;
 }
 
 #Portfolio {
@@ -20,6 +22,7 @@
     width: 76px;
     color: black;
     background: whitesmoke;
+    border-bottom: solid grey 2px;
 }
 
 #Contact {
@@ -28,6 +31,7 @@
     width: 76px;
     color: black;
     background: whitesmoke;
+    border-bottom: solid grey 2px;
 }
 
 body {
@@ -35,6 +39,7 @@ body {
     overflow: auto;
     width: 960px;
     margin:0 auto;
+    background-image: url("./assets/images/white-waves.png ");
     background-color: blue;
 }
 
