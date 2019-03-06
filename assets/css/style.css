@@ -3,6 +3,7 @@
     padding: 20px;
     width: 572px;
     color: black;
+    font-weight: bold;
     background:whitesmoke;
     border-bottom: solid grey 2px;
 }
@@ -12,6 +13,7 @@
     padding: 20px;
     width: 76px;
     color: black;
+    font-weight: bold;
     background: whitesmoke;
     border-bottom: solid grey 2px;
 }
@@ -21,6 +23,7 @@
     padding: 20px;
     width: 76px;
     color: black;
+    font-weight: bold;
     background: whitesmoke;
     border-bottom: solid grey 2px;
 }
@@ -30,6 +33,7 @@
     padding: 20px;
     width: 76px;
     color: black;
+    font-weight: bold;
     background: whitesmoke;
     border-bottom: solid grey 2px;
 }
@@ -38,13 +42,20 @@ body {
     clear: both;
     overflow: auto;
     width: 960px;
-    margin:0 auto;
-    background-image: url("./assets/images/white-waves.png ");
-    background-color: blue;
+    margin: auto;
+    background-image: url(../images/white-waves.png);
+    background-color: whitesmoke;
+}
+
+.container {
+    background-color:#ffffff;
+    padding: 20px;
+    
 }
 
 .Anthony_Portrait {
     float: left;
     margin-right: 10px;
+    margin-top: 2px;
 }
 
