@@ -9,41 +9,56 @@ p {
 #Name {
     float: left;
     padding: 20px;
-    width: 572px;
-    color: black;
+    width: 200px;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    background:whitesmoke;
-    border-bottom: solid grey 2px;
+    background: #4aaaa5;
+    border-bottom: solid #cccccc 2px;
+}
+
+#Blank {
+    float: left;
+    padding: 29.5px;
+    width: 313px;
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: #ffffff;
+    border-bottom: solid #cccccc 2px;
 }
 
 #About {
     float: left;
     padding: 20px;
     width: 76px;
-    color: black;
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    background: whitesmoke;
-    border-bottom: solid grey 2px;
+    background: #ffffff;
+    border-bottom: solid #cccccc 2px;
 }
 
 #Portfolio {
     float: left;
     padding: 20px;
     width: 76px;
-    color: black;
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    background: whitesmoke;
-    border-bottom: solid grey 2px;
+    background: #ffffff;
+    border-bottom: solid #cccccc 2px;
 }
 
 #Contact {
     float: left;
     padding: 20px;
     width: 76px;
-    color: black;
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    background: whitesmoke;
-    border-bottom: solid grey 2px;
+    background: #ffffff;
+    border-bottom: solid #cccccc 2px;
 }
 
 body {
@@ -51,12 +66,15 @@ body {
     overflow: auto;
     width: 960px;
     margin: auto;
+    color: #777777;
     background-image: url(../images/white-waves.png);
-    background-color: whitesmoke;
+    background-color: #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 .container {
     background-color:#ffffff;
+    border: solid #dddddd 2px;
     padding: 20px;
     
 }
@@ -64,6 +82,17 @@ body {
 .Anthony_Portrait {
     float: left;
     margin-right: 10px;
-    margin-top: 2px;
+    margin-top: 15px;
+}
+
+footer {
+    clear: both;
+    overflow: auto;
+    padding: 20px;
+    width: 920px;
+    background-color: #666666;
+    margin-top: 10px;
+    text-align: center;
+    border-top: solid #4aaaa5 5px;
 }
 
