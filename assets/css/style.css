@@ -95,6 +95,7 @@ body {
     background-color:#ffffff;
     border: solid #dddddd 2px;
     padding: 20px;
+    height: 500px;
 }
 
 .Anthony_Portrait {
@@ -119,21 +120,60 @@ footer {
 }
 
 #Hangman {
+    float: left;
+    height: 50px;
+    width: 30%;
+    padding: 10px;
+}
 
+.Sun_Rain {
+
+}
+
+.Broken_Ankle {
+
+}
+
+.Climbing_GIF {
+
+}
+
+.Climbing_low {
+
+}
+
+.Climbing_high {
+    
 }
 
 #RPG_Game {
-
+    float: left;
+    height: 50px;
+    width: 30%;
+    padding: 10px;
 }
 
 #Trivia_Game {
-
+    clear: both;
+    overflow: auto;
+    float: left;
+    height: 50px;
+    width: 30%;
+    padding: 10px;
 }
 
 #Rutgers_Info_Widget {
-
+    float: left;
+    height: 50px;
+    width: 30%;
+    padding: 10px;
 }
 
 #Rock_Paper_Scissors {
-
+    clear: both;
+    overflow: auto;
+    float: left;
+    height: 50px;
+    width: 30%;
+    padding: 10px;
 }
