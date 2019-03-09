@@ -127,17 +127,17 @@ footer {
     padding: 10px;
 }
 
-.Sun_Rain {
+/* .Sun_Rain {
 
-}
+} */
 
-.Broken_Ankle {
+/* .Broken_Ankle {
     transform: rotate(90deg);
-}
+} */
 
-.Climbing_GIF {
+/* .Climbing_GIF {
 
-}
+} */
 
 .Climbing_low {
     transform: rotate(90deg);
@@ -179,13 +179,28 @@ footer {
     padding: 10px;
 }
 
-#Email {
-
+.formField {
+    display: table;
+    clear: both;
+    width:800px;
 }
 
-#Message {
-
+#mail {
+    width:90%;
 }
+
+#name {
+    width:90%;
+}
+
+#msg {
+    width:90%;
+    height: 200px;
+}
+
+/* #submit {
+
+} */
 
 .clearfix:after {
     content: "";
