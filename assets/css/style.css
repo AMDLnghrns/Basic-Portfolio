@@ -147,6 +147,10 @@ footer {
     transform: rotate(90deg);
 }
 
+.Broken_Ankle {
+    transform: rotate(90deg);
+}
+
 #RPG_Game {
     float: left;
     height: 50px;
