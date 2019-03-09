@@ -105,19 +105,31 @@ body {
     margin-top: 15px;
 }
 
+#submit {
+    background-color: #4aaaa5;
+    width: 90px;
+    height: 33px;
+    border: none;
+    color: #ffffff;
+    font-size: 13px;
+}
+
 footer {
     clear: both;
     overflow: auto;
     padding-top: 40px;
     padding-left: 20px;
     padding-right: 20px;
-    width: 920px;
+    width: 100%;
     font-size: 12px;
     color: #c0c0c0;
     background-color: #666666;
     margin-top: 10px;
     text-align: center;
     border-top: solid #4aaaa5 5px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
 
 #Hangman {
@@ -126,18 +138,6 @@ footer {
     width: 30%;
     padding: 10px;
 }
-
-/* .Sun_Rain {
-
-} */
-
-/* .Broken_Ankle {
-    transform: rotate(90deg);
-} */
-
-/* .Climbing_GIF {
-
-} */
 
 .Climbing_low {
     transform: rotate(90deg);
@@ -198,14 +198,8 @@ footer {
     height: 200px;
 }
 
-/* #submit {
-
-} */
-
 .clearfix:after {
     content: "";
     display: table;
     clear: both;
   }
-
-
